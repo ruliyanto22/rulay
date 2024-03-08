@@ -3,8 +3,7 @@
 <h3 align="center">A young-dumb 🤓 SA-MP developer from Indonesia 🇮🇳</h3>
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p> -->
 
-<p align="left"> <a href="https://www.instagram.com/rulskuy22?igsh=cmZxNTFtenZiNXA1" target="blank"><img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram&labelColor=576469
-" alt="rulayyy" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/rulskuy22?igsh=cmZxNTFtenZiNXA1" target="blank"><img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram&labelColor=576469" alt="rulayyy" /></a> </p>
 
 - 💬 Ask me about **pawno, c++, c#**
 
