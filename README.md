@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [rulayy](https://ruliyanto22.github.io/ruly-website/)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact **Coding Lebih Menyenangkan daripada mengejar dia yang tidak pasti**
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://ruliyanto22.github.io/ruly-website/)
 
