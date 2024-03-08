@@ -18,12 +18,10 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <a href="https://www.instagram.com/rulskuy22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rulayy" height="30" width="40" /></a>
 </p>
 
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+**📕 My Project**
 <!-- BLOG-POST-LIST:START -->
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+- [Soteria Roleplay]()
+- [Dimension Roleplay]()
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
