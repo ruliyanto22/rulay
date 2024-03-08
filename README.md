@@ -3,8 +3,6 @@
 <h3 align="center">A young-dumb 🤓 SA-MP developer from Indonesia 🇮🇳</h3>
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p> -->
 
-<p align="left"> <a href="https://www.instagram.com/rulskuy22?igsh=cmZxNTFtenZiNXA1" target="blank"><img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram&labelColor=576469" alt="rulayyy" /></a> </p>
-
 - 💬 Ask me about **pawno, c++, c#**
 
 - 📫 Reach me at **user21978@gmail.com**
@@ -17,11 +15,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rulskuy22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rulayy" height="30" width="40" /></a>
 </p>
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
