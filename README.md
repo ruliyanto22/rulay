@@ -35,15 +35,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     <a href="" target="_blank"> <img src="https://branditechture.agency/brand-logos/wp-content/uploads/2022/06/C-1024x768.jpg" alt="express" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" alt="vuejs" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="react" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/</a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://tse4.mm.bing.net/th?id=OIP.LERBXVzLI-Klk6qV--NkAgAAAA&pid=Api&P=0&h=220" alt="xd" width="40" height="40"/> </a> 
     <a href="" target="_blank"> <img src="https://brandlogos.net/wp-content/uploads/2021/11/visual-studio-code-logo.png" alt="python" width="40" height="40"/> </a>
 </p>
