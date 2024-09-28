@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rulay</h1>
 
-<h3 align="center">A young-dumb 🤓 SA-MP developer from Indonesia 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 SA-MP developer from Indonesia  🇮🇩</h3>
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p> -->
 
 - 💬 Ask me about **pawno, c++, c#**
